@@ -1,16 +1,2 @@
-# demo
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Rideshare
+Simple ride sharing flutter mobile application (1 for drivers and 1 for users) using Firebase authentication and Firebase Fire-store as cloud Realtime database and Sqflite as an offline datastore. 
